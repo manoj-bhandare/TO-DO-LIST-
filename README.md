@@ -1,5 +1,4 @@
 # TO-DO-LIST-
-To-Do List Application
 Welcome to the To-Do List Application! This project is a simple, user-friendly task management tool built using HTML, CSS, and JavaScript. It helps users organize their tasks efficiently by allowing them to add, mark as complete, and delete tasks.
 
 Features
